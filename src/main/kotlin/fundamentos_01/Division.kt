@@ -1,6 +1,6 @@
-package fundamentos
+package fundamentos_01
 
-// division.kt
+// Division.kt
 // Programa para dividir un número entre otro.
 // Si el segundo es cero, se muestra un mensaje de error.
 

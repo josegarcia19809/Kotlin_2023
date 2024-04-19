@@ -1,4 +1,4 @@
-package fundamentos.variables
+package fundamentos_01
 
 fun main() {
     val numero: Int = 10
