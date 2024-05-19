@@ -1,4 +1,4 @@
-package condiciones_02
+package k02_condiciones
 
 fun main(args: Array<String>) {
     println("Dame tu edad:")

@@ -1,4 +1,4 @@
-package fundamentos_01.fundamentos_01
+package k01_fundamentos.fundamentos_01
 
 // Division.kt
 // Programa para dividir un número entre otro.
