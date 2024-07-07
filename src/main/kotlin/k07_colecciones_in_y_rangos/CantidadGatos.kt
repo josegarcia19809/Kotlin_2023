@@ -1,4 +1,4 @@
-package k07_mas_colecciones
+package k07_colecciones_in_y_rangos
 
 /*
 * A lady has cats
