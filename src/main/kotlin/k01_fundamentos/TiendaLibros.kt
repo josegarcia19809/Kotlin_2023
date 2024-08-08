@@ -16,7 +16,7 @@ fun main() {
     print("Proporciona el símbolo del precio: ")
     val simbolo: Char = readln()[0]
 
-    print("Proporciona el envío gratuito (true/false): ")
+    print("Proporciona si es envio gratuito (true/false): ")
     val esEnvioGratuito: Boolean = readln().toBoolean()
 
     println()
