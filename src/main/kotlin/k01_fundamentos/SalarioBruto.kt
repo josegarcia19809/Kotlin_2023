@@ -8,6 +8,6 @@ fun main() {
     val pagoPorHora: Double = readln().toDouble()
 
     val pagoTotal: Double = horasTrabajadas * pagoPorHora
-
     println("Salario bruto: $$pagoTotal")
+
 }
