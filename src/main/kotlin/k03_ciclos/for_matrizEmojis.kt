@@ -14,18 +14,15 @@ Inside each cell, print out 1 emoji
 * */
 fun main() {
     print("Enter a number: ")
-    val number= readln().toInt()
+    val number = readln().toInt()
 
     for (row in 1..number) {
         for (column in 1..number) {
-            if((row*column) %3 == 0)
-            {
+            if ((row * column) % 3 == 0) {
                 print("\uD83D\uDE00 ")
-            }
-            else if ((row*column) %3 == 1){
+            } else if ((row * column) % 3 == 1) {
                 print("\uD83E\uDD28 ")
-            }
-            else if ((row*column) %3 == 2){
+            } else if ((row * column) % 3 == 2) {
                 print("\uD83D\uDE31 ")
             }
 
