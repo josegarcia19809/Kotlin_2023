@@ -1,4 +1,4 @@
-package k10_clases
+package k03_ciclos
 
 fun main() {
     val cats = listOf("Tigger", "Smokey", "Sassy", "Patch", "Sammy")
