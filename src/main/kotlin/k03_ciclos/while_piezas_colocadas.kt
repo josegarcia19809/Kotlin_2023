@@ -1,4 +1,4 @@
-package k10_clases
+package k03_ciclos
 
 fun main() {
     var puzzlePieces = 20
