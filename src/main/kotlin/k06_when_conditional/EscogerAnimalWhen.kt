@@ -17,5 +17,5 @@ fun main() {
             action = "google it"
         }
     }
-    println("Whe you meet a $animal you should $action")
+    println("When you meet a $animal you should $action")
 }
