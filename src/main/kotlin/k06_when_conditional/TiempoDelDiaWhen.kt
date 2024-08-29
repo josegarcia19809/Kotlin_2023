@@ -13,7 +13,7 @@ Print out a message to specify the time of day.
 
 fun main() {
     print("What is the current hour? ")
-    var hour = readLine()!!.toInt()
+    var hour = readln().toInt()
     if (hour > 23) hour = 23
     val timeOfDay = when (hour) {
         in 6..11 -> "morning"
