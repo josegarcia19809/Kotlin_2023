@@ -9,7 +9,7 @@ package k06_when_conditional
 
 fun main() {
     println("How many meals do you have a day: ")
-    val meals = readLine()!!.toInt()
+    val meals = readln().toInt()
     when (meals) {
         in 0..2 -> println("You should eat more")
         3 -> println("That's perfect")

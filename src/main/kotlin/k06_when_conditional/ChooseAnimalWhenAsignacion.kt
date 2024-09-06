@@ -1,8 +1,8 @@
 package k06_when_conditional
 
 fun main(){
-    var animal = "dog"
-    var action= when(animal){
+    val animal = "dog"
+    val action= when(animal){
         "cat"-> "feed it"
         "dog"->"pet it"
         else->"google it"

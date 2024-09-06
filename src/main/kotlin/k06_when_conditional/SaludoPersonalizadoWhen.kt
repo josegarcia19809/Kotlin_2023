@@ -10,7 +10,7 @@ and a third message for the rest
 
 fun main() {
     print("Please enter your name: ")
-    val name = readLine() ?: ""
+    val name = readln()
     when (name[0]) {
         'A', 'B', 'C' -> println("Hello, $name, welcome")
         in 'D'..'F' -> println("Hi $name, how are you?")
