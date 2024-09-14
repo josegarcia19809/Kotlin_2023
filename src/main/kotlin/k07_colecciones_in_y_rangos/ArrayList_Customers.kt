@@ -7,7 +7,7 @@ package k07_colecciones_in_y_rangos
 * */
 
 fun main() {
-    var customers: ArrayList<String> = arrayListOf(
+    val customers: ArrayList<String> = arrayListOf(
         "Alberto C", "Berenice N", "Carolina G",
         "Diego M", "Esmeralda T"
     )
