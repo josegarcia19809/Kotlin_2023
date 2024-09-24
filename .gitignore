@@ -61,4 +61,4 @@ replay_pid*
 .idea/
 Kotlin_2023.iml
 
-!**/src/main/kotlin/k20_primer_parcial/
+src/main/kotlin/k20_primer_parcial/
