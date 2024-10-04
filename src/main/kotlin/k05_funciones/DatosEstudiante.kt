@@ -5,9 +5,6 @@ package k05_funciones
 // carrera: visualizarCarrera()
 // promedio: desplegarPromedio()
 
-fun imprimirLinea() {
-    println("-".repeat(100))
-}
 
 fun mostrarNombre() {
     println("Mi nombre es José L. García")
