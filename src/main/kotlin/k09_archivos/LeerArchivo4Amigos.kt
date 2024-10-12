@@ -5,7 +5,7 @@ package k09_archivos
 import java.io.File
 
 fun main() {
-    val archivo = File("amigos45.txt")
+    val archivo = File("amigos4.txt")
 
     // Leer el archivo línea por línea
     val lineas = archivo.readLines()

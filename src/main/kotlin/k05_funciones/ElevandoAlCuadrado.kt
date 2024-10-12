@@ -18,5 +18,6 @@ fun main() {
 
     val numAlCuadrado = calcularCuadrado(num)
     println("$num al cuadrado es $numAlCuadrado")
+    imprimirLinea()
 }
 
