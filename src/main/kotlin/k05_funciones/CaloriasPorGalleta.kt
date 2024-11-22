@@ -18,9 +18,10 @@ fun noEstaEnRiesgo() {
 
 fun main() {
     val caloriasPorGalleta = 75
-
-    print("¿Cuántas galletas te comiste? ")
-    val galletas = readln().toInt()
+    val noLista = 1
+    //print("¿Cuántas galletas te comiste? ")
+//    val galletas = readln().toInt()
+    val galletas = noLista * 5
 
     val caloriasConsumidas = galletas * caloriasPorGalleta
 
