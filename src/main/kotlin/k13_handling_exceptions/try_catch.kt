@@ -14,4 +14,7 @@ fun main() {
         ex.printStackTrace()
         imprimirLinea()
     }
+    finally {
+        println("The execution has completed!")
+    }
 }
