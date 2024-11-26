@@ -18,17 +18,22 @@ fun noEstaEnRiesgo() {
 
 fun main() {
     val caloriasPorGalleta = 75
-    val noLista = 1
-    //print("¿Cuántas galletas te comiste? ")
+    for (noLista in 1..24) {
+//        val noLista = 1
+        //print("¿Cuántas galletas te comiste? ")
 //    val galletas = readln().toInt()
-    val galletas = noLista * 5
+        println("---------------------------------$noLista")
+        val galletas = noLista * 5
 
-    val caloriasConsumidas = galletas * caloriasPorGalleta
+        val caloriasConsumidas = galletas * caloriasPorGalleta
 
-    if (caloriasConsumidas > 500) {
-        estaEnRiesgo()
-    } else {
-        noEstaEnRiesgo()
+        println("Calorias consumidas: $caloriasConsumidas")
+
+        if (caloriasConsumidas > 500) {
+            estaEnRiesgo()
+        } else {
+            noEstaEnRiesgo()
+        }
+        //imprimirLinea()
     }
-    imprimirLinea()
 }
