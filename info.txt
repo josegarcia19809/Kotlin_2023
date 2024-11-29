@@ -2,3 +2,11 @@
 // java -jar Division.jar
 
 Creado lunes 27 noviembre de 2023
+
+POO: Getters and Setters - WeirdCar
+
+This
+
+init
+
+Companion object
