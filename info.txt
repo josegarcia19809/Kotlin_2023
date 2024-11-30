@@ -3,7 +3,7 @@
 
 Creado lunes 27 noviembre de 2023
 
-POO: Getters and Setters - BankAccount
+POO: Getters and Setters - BankAccount2 interest rates
 
 This
 
