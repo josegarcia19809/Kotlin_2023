@@ -3,10 +3,12 @@
 
 Creado lunes 27 noviembre de 2023
 
-POO: Getters and Setters - WeirdCar
+POO: Getters and Setters - BankAccount
 
 This
 
 init
 
 Companion object
+
+
