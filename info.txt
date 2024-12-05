@@ -3,8 +3,8 @@
 
 Creado lunes 27 noviembre de 2023
 
-POO: init - WebBrowser
+POO: Companion object - Car
 
-Companion object
+
 
 
