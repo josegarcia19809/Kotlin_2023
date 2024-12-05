@@ -3,7 +3,7 @@
 
 Creado lunes 27 noviembre de 2023
 
-POO: Companion object - KotlinCourse
+POO: Companion object - Book and Editor
 
 
 
