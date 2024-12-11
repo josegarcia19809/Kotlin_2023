@@ -3,7 +3,7 @@
 
 Creado lunes 27 noviembre de 2023
 
-Set y HashSet: objects that are on your desk
+Set y HashSet: Customers
 
 Set functions
 05:31
