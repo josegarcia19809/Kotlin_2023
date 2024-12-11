@@ -3,13 +3,8 @@
 
 Creado lunes 27 noviembre de 2023
 
-Set y HashSet: HashSet - methods
+Set y HashSet: HashSet - colors
 
-
-
-05:39
-
-07:23
 Practice: Set and HashSet
 05:00
 Exercise: Set and HashSet
