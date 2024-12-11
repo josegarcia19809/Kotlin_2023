@@ -3,8 +3,27 @@
 
 Creado lunes 27 noviembre de 2023
 
-POO: Companion object - Lock
+Set y HashSet: What is a Set
 
 
 
+05:39
+HashSet
+07:23
+Practice: Set and HashSet
+05:00
+Exercise: Set and HashSet
+00:06
+Solution: Set and HashSet
+03:57
+Set functions
+05:31
+HashSet functions
+03:25
+Practice: Set functions
+05:14
+Exercise: Set functions
+00:13
+Solution: Set functions
+04:55
 

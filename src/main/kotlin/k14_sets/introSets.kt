@@ -13,4 +13,7 @@ fun main() {
     val numbers3 = setOf(6, 5, 2, null, 8, 7, 9, null)
     println(numbers3)
 
+    val frutas= setOf("manzana", "uva", "manzana", "fresa")
+    println(frutas)
+
 }
