@@ -3,14 +3,8 @@
 
 Creado lunes 27 noviembre de 2023
 
-Set y HashSet: HashSet - colors
+Set y HashSet: objects that are on your desk
 
-Practice: Set and HashSet
-05:00
-Exercise: Set and HashSet
-00:06
-Solution: Set and HashSet
-03:57
 Set functions
 05:31
 HashSet functions
