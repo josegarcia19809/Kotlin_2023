@@ -1,4 +1,4 @@
-package k15_clases
+package k07_colecciones_in_y_rangos
 
 fun main() {
     val tareas = ArrayList<String>()

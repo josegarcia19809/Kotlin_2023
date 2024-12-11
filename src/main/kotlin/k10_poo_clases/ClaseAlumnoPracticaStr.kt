@@ -1,4 +1,4 @@
-package k15_clases
+package k10_poo_clases
 
 class Alumno2(val nombre: String, val carrera: String) {
 
