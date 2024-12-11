@@ -3,12 +3,12 @@
 
 Creado lunes 27 noviembre de 2023
 
-Set y HashSet: What is a Set
+Set y HashSet: HashSet - methods
 
 
 
 05:39
-HashSet
+
 07:23
 Practice: Set and HashSet
 05:00
