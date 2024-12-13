@@ -3,9 +3,9 @@
 
 Creado lunes 27 noviembre de 2023
 
-Set y HashSet: Set functions
+Set y HashSet: HashSet functions
 
-HashSet functions
+
 03:25
 Practice: Set functions
 05:14
