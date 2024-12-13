@@ -3,7 +3,7 @@
 
 Creado lunes 27 noviembre de 2023
 
-Set y HashSet: HashSet functions
+Set y HashSet: Set de números primos
 
 
 03:25
