@@ -3,14 +3,5 @@
 
 Creado lunes 27 noviembre de 2023
 
-Set y HashSet: FavouriteDrinks hashSet
-
-
-03:25
-Practice: Set functions
-05:14
-Exercise: Set functions
-00:13
-Solution: Set functions
-04:55
+Set y HashSet: acceptedColors hashSet
 
