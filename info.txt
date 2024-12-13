@@ -3,5 +3,18 @@
 
 Creado lunes 27 noviembre de 2023
 
-Set y HashSet: acceptedColors hashSet
+Map y HashMap: What is a Map
+
+
+07:54
+HashMap
+06:32
+Map functions
+06:07
+Practice: Map and HashMap
+06:20
+Exercise: Map and HashMap
+00:11
+Solution: Map and HashMap
+05:54
 
