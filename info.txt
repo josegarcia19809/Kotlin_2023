@@ -3,11 +3,11 @@
 
 Creado lunes 27 noviembre de 2023
 
-Map y HashMap: What is a Map
+Map y HashMap: What is a HashMap
 
 
 07:54
-HashMap
+
 06:32
 Map functions
 06:07
