@@ -3,14 +3,8 @@
 
 Creado lunes 27 noviembre de 2023
 
-Map y HashMap: Map functions
+Map y HashMap: translation of numbers in french
 
-
-07:54
-
-06:32
-
-06:07
 Practice: Map and HashMap
 06:20
 Exercise: Map and HashMap
