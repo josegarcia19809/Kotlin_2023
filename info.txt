@@ -3,12 +3,4 @@
 
 Creado lunes 27 noviembre de 2023
 
-Map y HashMap: translation of numbers in french
-
-Practice: Map and HashMap
-06:20
-Exercise: Map and HashMap
-00:11
-Solution: Map and HashMap
-05:54
-
+Map y HashMap: customers
